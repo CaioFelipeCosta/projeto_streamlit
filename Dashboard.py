@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 import pandas as pd
-import plotly as px
+import plotly.express as px
 
 # Configurações de exibição
 st.set_page_config(layout = "wide")
